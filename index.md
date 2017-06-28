@@ -3,7 +3,6 @@ Hi, I am Timo. I am a computer scientist interested in Software Engineering, Mac
 
 ### Professional Experiences
 
-
 ### Publications
 
 
